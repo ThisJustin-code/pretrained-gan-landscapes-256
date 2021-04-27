@@ -28,7 +28,7 @@ Links:
 * [Progression video of the training process on this data set](https://youtu.be/-Ov-SSFxrQ0)
 * [Latent vector walk video #1](https://youtu.be/EJpfjA1vU4M)
 * [Latent vector walk video #2](https://youtu.be/v37l-sQ1TXk)
-* [Download link to my own custom landscape dataset used for training]()
-* [Download link to the landscapes .pkl file]()
+* [Download link to my own custom landscape dataset used for training](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/releases/download/v1.0/landscapes-img-set-256.zip)
+* [Download link to the landscapes .pkl file](https://github.com/ThisJustin-code/pretrained-gan-landscapes-256/releases/download/v1.0/landscapes-256-trained.pkl)
 
 Updated on **04/26/2021** by **Justin Gallagher**
